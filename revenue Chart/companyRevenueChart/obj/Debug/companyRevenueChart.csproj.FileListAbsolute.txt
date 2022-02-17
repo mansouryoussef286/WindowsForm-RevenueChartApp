@@ -1,0 +1,31 @@
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.exe.config
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.Properties.Resources.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.GenerateResource.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.Form1.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.exe.config
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.Form1.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.Properties.Resources.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.GenerateResource.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 8 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.Form1.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.Properties.Resources.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.GenerateResource.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.exe.config
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\bin\Debug\companyRevenueChart.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\iti\visual C# .NET\lab 9 cont lab 7\companyRevenueChart\obj\Debug\companyRevenueChart.coNameDialog.resources
